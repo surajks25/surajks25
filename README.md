@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj K S</h1>
 <h3 align="center">Aspiring Full Stack Developer | ML Learner | Passionate Open Source Contributor</h3>
 
-<img align="right" width="250" style="margin-top:-50px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="250"  height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **MERN Projects & Machine Learning**
 - 🌱 I’m currently learning **React, Node.js, Python ML**
