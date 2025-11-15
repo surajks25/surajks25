@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj K S</h1>
 <h3 align="center">Aspiring Full Stack Developer | ML Learner | Passionate Open Source Contributor</h3>
 
-<img align="right" width="250"  height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="260" style="margin-top:-40px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **MERN Projects & Machine Learning**
 - 🌱 I’m currently learning **React, Node.js, Python ML**
@@ -9,6 +9,8 @@
 - 💬 Ask me about **React.js, JavaScript, ML, Python**
 - 📫 How to reach me: **surajkskulal@gmail.com**
 - 📄 Know about my experiences: [My Portfolio](https://surajkskulal.vercel.app/)
+
+<br><br>
 
 ---
 
@@ -30,22 +32,3 @@
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
 </p>
-
-
----
-
-## 🚀 Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=surajks25&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajks25&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajks25&theme=radical)
