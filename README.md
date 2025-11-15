@@ -10,7 +10,6 @@
 - 📫 How to reach me: **surajkskulal@gmail.com**
 - 📄 Know about my experiences: [My Portfolio](https://surajkskulal.vercel.app/)
 
-<br></br>
 ---
 
 ## 🌐 Connect With Me
@@ -31,3 +30,22 @@
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
 </p>
+
+---
+
+## 🚀 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=surajks25&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajks25&layout=compact&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=surajks25&theme=radical)
