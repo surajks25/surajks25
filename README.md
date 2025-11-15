@@ -14,9 +14,23 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/suraj-ks-0724352b7" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:surajkskulal@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/suraj-ks-0724352b7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="mailto:surajkskulal@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/s___k_u_l_a_l___/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+
+  <a href="https://x.com/surajkskulal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
 </p>
+
 
 ---
 
