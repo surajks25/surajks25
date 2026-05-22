@@ -42,11 +42,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=surajks25&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajks25&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajks25&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajks25&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajks25&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajks25&theme=radical" />
+</p>
