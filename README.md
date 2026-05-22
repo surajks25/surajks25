@@ -35,8 +35,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ## 🚀 Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,tensorflow,pytorch,sklearn,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
 </p>
 
 ---
