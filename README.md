@@ -50,7 +50,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajks25&theme=github_dark" />
 </p>
----
 
 ## 🔥 Streak Stats
 
