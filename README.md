@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suraj K S</h1>
-<h3 align="center">Aspiring Full Stack Developer | ML Learner | Passionate Open Source Contributor</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Generative AI Developer | ML Enthusiast | Open Source Contributor</h3>
 
 <img align="right" width="220" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **MERN Projects & Machine Learning**
-- 🌱 I’m currently learning **React, Node.js, Python ML**
+- 🔭 I’m currently working on **Data Science, Machine Learning & Gen AI Projects**
+- 🌱 I’m currently learning **Python, Data Analytics, Machine Learning, Generative AI**
 - 👯 I love contributing to **Open Source**
-- 💬 Ask me about **React.js, JavaScript, ML, Python**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, Gen AI**
 - 📫 How to reach me: **surajkskulal@gmail.com**
 - 📄 Know about my experiences: [My Portfolio](https://surajkskulal.vercel.app/)
 
@@ -36,7 +36,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,tensorflow,pytorch,sklearn,git,github,vscode" />
 </p>
 
 ---
