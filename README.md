@@ -15,7 +15,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/suraj-ks-0724352b7" target="_blank">
+  <a href="https://www.linkedin.com/in/surajks25/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
